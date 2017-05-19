@@ -1,0 +1,37 @@
+{
+  "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+  "appVersion": "43.2",
+  "build": 39069,
+  "app": "com.bohemiancoding.sketch3",
+  "pagesAndArtboards": {
+    "DB6603BC-0B5F-4846-AC18-FAC3204D6C9F": {
+      "name": "Page 1",
+      "artboards": {}
+    },
+    "B1B2143F-0E7A-4466-B471-B7E4816C66B5": {
+      "name": "Symbols",
+      "artboards": {
+        "4708F7F5-CD4B-4D04-A68A-3E52206C1F57": {
+          "name": "StarBall"
+        }
+      }
+    }
+  },
+  "fonts": [
+    ".SFNSDisplay-Regular"
+  ],
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "commit": "2ac3f43dc64a2b7982dc85b584be457e7bbba129",
+    "build": 39069,
+    "appVersion": "43.2",
+    "variant": "NONAPPSTORE",
+    "version": 88
+  },
+  "version": 88,
+  "saveHistory": [
+    "NONAPPSTORE.39069"
+  ],
+  "autosaved": 0,
+  "variant": "NONAPPSTORE"
+}

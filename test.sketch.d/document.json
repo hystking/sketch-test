@@ -1,0 +1,42 @@
+{
+  "_class": "document",
+  "do_objectID": "67A3CEE0-FBD5-43E1-90E2-2237B9F62A3D",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [],
+    "gradients": [],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {}
+    },
+    "images": []
+  },
+  "currentPageIndex": 0,
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [],
+  "layerStyles": {
+    "_class": "sharedStyleContainer",
+    "objects": []
+  },
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": []
+  },
+  "layerTextStyles": {
+    "_class": "sharedTextStyleContainer",
+    "objects": []
+  },
+  "pages": [
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/DB6603BC-0B5F-4846-AC18-FAC3204D6C9F"
+    },
+    {
+      "_class": "MSJSONFileReference",
+      "_ref_class": "MSImmutablePage",
+      "_ref": "pages/B1B2143F-0E7A-4466-B471-B7E4816C66B5"
+    }
+  ]
+}
